@@ -1,3 +1,4 @@
+
 - 👋 Hi, I’m @AdhyyH, currently a student majoring in Software Engineering!
 - 👀 I’m interested in Machine Learning, AI and General Coding for various projects!
 - 🌱 I’m currently learning C, C++, SQL, Python, CSS & HTML.
