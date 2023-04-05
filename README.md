@@ -14,7 +14,7 @@ In my free time i love to travel, learning new languages, shopping, reading fict
 
 **About Me:**
 
-- 👨🏻‍💻 I’m currently a 2nd year student;
+- 👨🏻‍💻 I’m currently a 3rd year student;
 - 🚀 I’m currently exploring web design and game programming;
 - 💬 I love sharing my ideas!;
 - 📫 How to reach me: <adhwa.salemi@gmail.com>;
